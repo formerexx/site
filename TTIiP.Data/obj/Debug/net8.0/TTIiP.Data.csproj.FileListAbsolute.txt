@@ -1,0 +1,11 @@
+D:\USER_3\Alina\TTIiP.Data\bin\Debug\net8.0\TTIiP.Data.deps.json
+D:\USER_3\Alina\TTIiP.Data\bin\Debug\net8.0\TTIiP.Data.dll
+D:\USER_3\Alina\TTIiP.Data\bin\Debug\net8.0\TTIiP.Data.pdb
+D:\USER_3\Alina\TTIiP.Data\obj\Debug\net8.0\TTIiP.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER_3\Alina\TTIiP.Data\obj\Debug\net8.0\TTIiP.Data.AssemblyInfoInputs.cache
+D:\USER_3\Alina\TTIiP.Data\obj\Debug\net8.0\TTIiP.Data.AssemblyInfo.cs
+D:\USER_3\Alina\TTIiP.Data\obj\Debug\net8.0\TTIiP.Data.csproj.CoreCompileInputs.cache
+D:\USER_3\Alina\TTIiP.Data\obj\Debug\net8.0\TTIiP.Data.dll
+D:\USER_3\Alina\TTIiP.Data\obj\Debug\net8.0\refint\TTIiP.Data.dll
+D:\USER_3\Alina\TTIiP.Data\obj\Debug\net8.0\TTIiP.Data.pdb
+D:\USER_3\Alina\TTIiP.Data\obj\Debug\net8.0\ref\TTIiP.Data.dll

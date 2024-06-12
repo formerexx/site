@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTIiP.Data", "TTIiP.Data\TTIiP.Data.csproj", "{A1E7B1A8-4E23-4FEF-AA96-961E44BB4321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTIiP.Repository", "TTIiP.Repository\TTIiP.Repository.csproj", "{06498842-9BC6-4526-8EFC-605ED71D945E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{0B580408-8EB9-44A0-8950-94030431960F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E7B1A8-4E23-4FEF-AA96-961E44BB4321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E7B1A8-4E23-4FEF-AA96-961E44BB4321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E7B1A8-4E23-4FEF-AA96-961E44BB4321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E7B1A8-4E23-4FEF-AA96-961E44BB4321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06498842-9BC6-4526-8EFC-605ED71D945E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06498842-9BC6-4526-8EFC-605ED71D945E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06498842-9BC6-4526-8EFC-605ED71D945E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06498842-9BC6-4526-8EFC-605ED71D945E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B580408-8EB9-44A0-8950-94030431960F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B580408-8EB9-44A0-8950-94030431960F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B580408-8EB9-44A0-8950-94030431960F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B580408-8EB9-44A0-8950-94030431960F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

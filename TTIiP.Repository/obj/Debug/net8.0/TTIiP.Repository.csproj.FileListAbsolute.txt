@@ -1,0 +1,17 @@
+D:\USER_3\Alina\TTIiP.Repository\bin\Debug\net8.0\TTIiP.Repository.deps.json
+D:\USER_3\Alina\TTIiP.Repository\bin\Debug\net8.0\TTIiP.Repository.dll
+D:\USER_3\Alina\TTIiP.Repository\bin\Debug\net8.0\TTIiP.Repository.pdb
+D:\USER_3\Alina\TTIiP.Repository\bin\Debug\net8.0\TTIiP.Data.dll
+D:\USER_3\Alina\TTIiP.Repository\bin\Debug\net8.0\TTIiP.Data.pdb
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\TTIiP.Repository.csproj.AssemblyReference.cache
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\TTIiP.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\TTIiP.Repository.AssemblyInfoInputs.cache
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\TTIiP.Repository.AssemblyInfo.cs
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\TTIiP.Repository.csproj.CoreCompileInputs.cache
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\TTIiP.Re.6FF93CFD.Up2Date
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\TTIiP.Repository.dll
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\refint\TTIiP.Repository.dll
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\TTIiP.Repository.pdb
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\ref\TTIiP.Repository.dll
+D:\USER_3\Alina\TTIiP.Repository\bin\Debug\net8.0\TTIiP.Repository.runtimeconfig.json
+D:\USER_3\Alina\TTIiP.Repository\obj\Debug\net8.0\TTIiP.Repository.genruntimeconfig.cache
